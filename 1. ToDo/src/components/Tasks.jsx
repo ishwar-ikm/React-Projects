@@ -21,7 +21,7 @@ export default function Tasks(props) {
     return (
         <div className='tasks'>
             {/* Display todo item with conditional styling */}
-            <p onClick={handleCompleted} style={props.isCompleted ? { textDecoration: "line-through" } : null}>
+            <p onClick={handleCompleted} style={props.isCompleted ? { textDecoration: "line-through"} : null}>
                 {props.todo}
             </p>
             {/* Action buttons for delete and edit */}

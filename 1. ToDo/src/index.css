@@ -3,8 +3,8 @@
     padding: 0;
 }
 
-html{
-    height: 100%
+html {
+    height: 100%;
 }
 
 body {
@@ -13,7 +13,7 @@ body {
     background-repeat: no-repeat;
 }
 
-input{
+input {
     font-size: 1.5rem;
     border: none;
     border-bottom: 1px solid grey;
@@ -21,11 +21,11 @@ input{
     margin-bottom: 10px;
 }
 
-input:focus{
+input:focus {
     outline: none;
 }
 
-p{
+p {
     font-size: 1.2rem;
 }
 
@@ -44,33 +44,35 @@ p{
     background-color: rgb(40, 81, 227); 
 }
 
-#root{
+#root {
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-
-.todos{
+.todos {
     background-color: white;
     height: 80vh;
     border-radius: 10px;
     box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.5);
     padding: 2%;
     text-align: center;
+    overflow: auto; 
+    overflow-x: hidden;
+    width: 80%; 
+    max-width: 600px;
 }
 
-.title{
+.title {
     margin: 7% auto;
 }
 
-
-.taskDiv{
+.taskDiv {
     margin-top: 10%;
 }
 
-.tasks{
+.tasks {
     margin: 5%;
     background-color: rgb(224, 233, 244);
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
@@ -78,10 +80,19 @@ p{
     border-radius: 10px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    width: 85%;
+    width: 100%; /* Ensure the task takes full width */
+    max-width: 500px; /* Set a max-width for tasks */
+    word-wrap: break-word; /* Break long words */
+    overflow-wrap: break-word; /* Break long words */
 }
 
-.tasks p{
+.tasks p {
     cursor: pointer;
+    margin-right: 10px;
+    flex: 1; /* Allow paragraph to take up available space */
+}
+
+.actions {
+    display: flex;
+    align-items: center;
 }
