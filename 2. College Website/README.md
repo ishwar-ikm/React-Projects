@@ -174,7 +174,7 @@ Each component has its own CSS file for styling, located in the same directory a
 
 ## API
 
-The Contact component uses Web3Forms to handle form submissions. Ensure you replace the access key with your own in the Contact component in [Contact.jsx](https://github.com/ishwar-ikm/React-Projects/tree/main/1.%20ToDo) at line 13
+The Contact component uses Web3Forms to handle form submissions. Ensure you replace the access key with your own in the Contact component in [Contact.jsx](https://github.com/ishwar-ikm/React-Projects/blob/main/2.%20College%20Website/src/components/Contact/Contact.jsx) at line 13.
 
 ```javascript
 const formData = new FormData(event.target);
