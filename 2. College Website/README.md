@@ -28,7 +28,7 @@ This project is a React-based website for a university, showcasing various compo
     - [Programs page](#programs-page)
     - [About us page](#about-us-page)
     - [Campus Gallery page](#campus-gallery-page)
-    - [testimonials page](#testimonials-page)
+    - [Testimonials page](#testimonials-page)
     - [Contact page](#contact-page)
 
 ## Installation
@@ -190,7 +190,7 @@ formData.append("access_key", "YOUR_ACCESS_KEY");
 ![Screenshot](screenshots/about.png)
 ### Campus Gallery page
 ![Screenshot](screenshots/campus.png)
-### testimonials page
-![Screenshot](screenshots/Testimonials.png)
+### Testimonials page
+![Screenshot](screenshots/testimonials.png)
 ### Contact page
 ![Screenshot](screenshots/contact.png)
