@@ -66,8 +66,6 @@ The project is a web application for showcasing a university or educational inst
 
 ---
 
-Great! I'll begin creating the `README.md` file now.
-
 ### Project 3: GymGuru
 
 GymGuru is a web application designed to help users generate custom workout routines based on their goals, target muscles, and preferred workout intensity. It provides users with a convenient way to plan their fitness regimen and stay motivated towards achieving their fitness goals.
