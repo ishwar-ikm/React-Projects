@@ -85,7 +85,7 @@ GymGuru is a web application designed to help users generate custom workout rout
 4. **Interactive Interface**: The user interface is designed to be intuitive and user-friendly, providing a seamless experience for users to navigate and interact with the application.
 5. **Responsive Design**: The application is built with a responsive design, ensuring compatibility with various devices and screen sizes, allowing users to access GymGuru from desktops, laptops, tablets, and smartphones.
 
-[Link to Project](https://github.com/ishwar-ikm/React-Projects/tree/main/3.%Gym%App)
+[Link to Project](https://github.com/ishwar-ikm/React-Projects/tree/main/3.%20Gym%20App)
 
 ---
 
