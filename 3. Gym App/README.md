@@ -1,7 +1,3 @@
-To create a README file for your project, you'll want to include information that helps users understand what your application does, how to use it, and any other relevant details. Here's a template you can use:
-
----
-
 # GymGuru
 
 GymGuru is a workout generator application built with React. It helps users generate customized workout plans based on their preferences for workout type, muscle groups, and fitness goals.
