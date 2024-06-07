@@ -66,4 +66,27 @@ The project is a web application for showcasing a university or educational inst
 
 ---
 
+Great! I'll begin creating the `README.md` file now.
+
+### Project 3: GymGuru
+
+GymGuru is a web application designed to help users generate custom workout routines based on their goals, target muscles, and preferred workout intensity. It provides users with a convenient way to plan their fitness regimen and stay motivated towards achieving their fitness goals.
+
+**Technologies Used**
+- **React**: Used for building the user interface components and managing the application's state.
+- **JavaScript (ES6+)**: Used for writing the logic and functionality of the application.
+- **HTML & CSS**: Utilized for structuring the layout and styling the user interface.
+- **Tailwind CSS**: A utility-first CSS framework used for quickly styling components and layouts.
+
+**Features**
+1. **Workout Generation**: Users can generate custom workout routines based on their preferences, including workout type, target muscles, and fitness goals.
+2. **Flexible Options**: The application offers a variety of workout types and allows users to select specific muscle groups to focus on during their workouts.
+3. **Personalized Experience**: GymGuru provides a tailored fitness experience by allowing users to customize their workout routines according to their individual fitness goals and preferences.
+4. **Interactive Interface**: The user interface is designed to be intuitive and user-friendly, providing a seamless experience for users to navigate and interact with the application.
+5. **Responsive Design**: The application is built with a responsive design, ensuring compatibility with various devices and screen sizes, allowing users to access GymGuru from desktops, laptops, tablets, and smartphones.
+
+[Link to Project](https://github.com/ishwar-ikm/React-Projects/tree/main/3.%Gym%App)
+
+---
+
 Each project may have its own set of instructions on how to run it. Please navigate to the specific project folder and refer to the project's README.md or documentation for detailed instructions on setting up and running the project.
