@@ -2,35 +2,6 @@
 
 This project is a React-based website for a university, showcasing various components like Navbar, Hero section, Programs, About section, Campus gallery, Testimonials, Contact form, and a Video Player.
 
-## Table of Contents
-
-- [University Website](#university-website)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Project Structure](#project-structure)
-  - [Components](#components)
-    - [App](#app)
-    - [About](#about)
-    - [Campus](#campus)
-    - [Contact](#contact)
-    - [Hero](#hero)
-    - [Navbar](#navbar)
-    - [Program](#program)
-    - [Testimonial](#testimonial)
-    - [Title](#title)
-    - [Video Player](#video-player)
-  - [Assets](#assets)
-  - [Styling](#styling)
-  - [API](#api)
-  - [Screenshots](#screenshots)
-    - [Home page](#home-page)
-    - [Programs page](#programs-page)
-    - [About us page](#about-us-page)
-    - [Campus Gallery page](#campus-gallery-page)
-    - [Testimonials page](#testimonials-page)
-    - [Contact page](#contact-page)
-
 ## Installation
 
 1. Clone the repository:
@@ -47,7 +18,7 @@ This project is a React-based website for a university, showcasing various compo
 
 ## Usage
 
-After starting the development server, you can view the website in your browser at `http://localhost:3000`.
+After starting the development server, you can view the website in your browser at `http://localhost:5173`.
 
 ## Project Structure
 

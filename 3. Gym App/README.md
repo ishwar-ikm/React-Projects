@@ -39,10 +39,10 @@ To run GymGuru locally, follow these steps:
 ## Screenshots
 
 ### Home page
-![Alt Text](screenshot\home.png)
+![Alt Text](screenshot/home.png)
 
 ### Generator page
-![Alt Text](screenshot\generator.png)
+![Alt Text](screenshot/generator.png)
 
 ### Workout page
-![Alt Text](screenshot\workout.png)
+![Alt Text](screenshot/workout.png)
