@@ -87,4 +87,22 @@ GymGuru is a web application designed to help users generate custom workout rout
 
 ---
 
+### Project 4: Simon Game
+
+Simon Game is an engaging and fun memory game where players must follow an increasingly long sequence of lights and sounds. Each round, a new light is added to the sequence, and the player must remember and repeat the sequence correctly to advance to the next round. The game is a great way to challenge and improve your memory skills!
+
+**Technologies Used**
+- **React**: Used for building the user interface components and managing the application's state.
+- **Tailwind CSS**: A utility-first CSS framework used for quickly styling components and layouts.
+- **JavaScript (ES6+)**: Implements the game's logic, functionality, and interactivity.
+
+**Features**
+1. **Interactive Gameplay**: The Simon Game provides an interactive and immersive experience where players must follow a sequence of lights and sounds. Each round introduces a new light, increasing the challenge and fun.
+2. **Visual and Audio Feedback**: The game uses both visual (lights) and audio (sounds) feedback to guide players. Each button in the game lights up and plays a unique sound, making it easier to remember the sequence.
+3. **Level Tracking**: The game tracks the player's progress by counting the number of rounds completed. This score is displayed to motivate players to beat their previous high scores.
+
+[Link to Project](https://github.com/ishwar-ikm/React-Projects/tree/main/4.%20Simon%20Game)
+
+---
+
 Each project may have its own set of instructions on how to run it. Please navigate to the specific project folder and refer to the project's README.md or documentation for detailed instructions on setting up and running the project.
