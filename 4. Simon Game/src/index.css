@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.pressed{
+  box-shadow: 0 0 20px white;
+  background: rgb(116, 115, 115);
+}
+
+.game-over{
+  background: red;
+}
