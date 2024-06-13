@@ -105,4 +105,28 @@ Simon Game is an engaging and fun memory game where players must follow an incre
 
 ---
 
+
+### Peoject 5: Recipe Finder App
+
+The Recipe Finder App is a web application built with React that allows users to search, explore, and save recipes conveniently. Users can search for recipes using keywords, view recommended recipes, and save their favorite recipes for future reference.
+
+**Technologies Used**
+- **React:** JavaScript library used for building the user interface components and managing application state.
+- **React Router DOM:** Enables navigation and routing within the single-page application.
+- **Tailwind CSS:** Utility-first CSS framework for styling the components and layouts.
+- **Lucide Icons:** Provides a set of clean and consistent icons for user interface elements.
+- **Edamam Recipe API:** External API used for fetching recipe data based on user search queries.
+  
+
+**Features**
+- **Search Recipes:** Users can search for recipes using keywords and explore various options.
+- **Recommended Recipes:** Displays popular and recommended recipes based on trending or user-specific interests.
+- **Favorites:** Allows users to save their favorite recipes locally within the app for quick access.
+
+
+[Link to Project](https://github.com/ishwar-ikm/React-Projects/tree/main/5.%20Recipe%20Finder)
+
+---
+
 Each project may have its own set of instructions on how to run it. Please navigate to the specific project folder and refer to the project's README.md or documentation for detailed instructions on setting up and running the project.
+
